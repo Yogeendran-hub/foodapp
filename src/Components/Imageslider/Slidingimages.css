@@ -1,0 +1,32 @@
+#carouselExampleIndicators
+{
+    margin-top:-80px;
+    margin-left:10px;
+    height:500px;
+    width:1330px;
+    
+}
+.carousel-indicators
+{
+    position: relative;
+    top:620px;
+}
+
+img
+{
+    height:620px;
+    width:600px;
+}
+
+.carousel-control-prev-icon
+{
+    position: relative;
+    top:30px;
+    background-color: black;
+}
+.carousel-control-next-icon
+{
+    position: relative;
+    top:50px;
+    background-color: black;
+}

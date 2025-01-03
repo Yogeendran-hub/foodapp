@@ -1,0 +1,146 @@
+.cardorder2
+{
+    background-color: rgb(170, 126, 68);
+    position:relative;
+    top:-50px;
+    left:280px;
+    height:398px;
+    width:600px;
+}
+.order2img
+{
+    height:400px;
+    width:290px;
+    margin-top:-1px;
+}
+.order2body
+{
+    text-align: left;
+    margin-top:-403px;
+    margin-left:300px;
+    font-weight: bold;
+}
+.dishname2
+{
+    color:white;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:20px;
+    
+}
+.Masala
+{
+    color:white;
+    font-weight: bold;
+    position: relative;
+    top:-24px;
+    left:214px;
+}
+.titlequantity2
+{
+    color:white;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:50px;
+}
+
+.quantity2
+{
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top:15px;
+    left:130px;
+
+}
+
+.titleprice2
+{
+    color:white;
+    font-weight : bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:60px;
+    left:2px;
+}
+.price2
+{
+    margin-top:50px;
+    font-weight: bold;
+    color:white;
+    position: relative;
+    top:-15px;
+    left:150px;
+}
+.titletotalprice2
+{
+    color:white;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:35px;
+}
+.totalprice2
+{
+    color: white;
+    position:relative;
+    top:2px;
+    left:150px;
+    font-weight: bold;
+
+}
+.order2button2
+{
+    background-color: rgb(209, 218, 84);
+    color:green;
+    position: relative;
+    top:45px;
+    left:60px;
+}
+.order2button2:hover
+{
+    background-color: rgb(209, 218, 84);
+    color: green;
+}
+.minus2
+{
+    background-color: rgb(209, 218, 84);
+    height:25px;
+    width:30px;
+    position: relative;
+    top:5px;
+    left:-10px;
+    border-color: rgb(67, 135, 190);  
+}
+.minussymbol2
+{
+    color: green;
+    position: relative;
+    top:-6px;
+    left:-2px;
+}
+.plus2
+{
+    background-color: rgb(209, 218, 84);
+    color: green;
+    height:25px;
+    width:30px;
+    position: relative;
+    top:5px;
+    left:10px;
+    border-color: rgb(67, 135, 190);
+}
+.plussymbol2
+{
+    color: green;
+    position: relative;
+    top:-6px;
+    left:-1px;
+}
+.copyright2
+{
+    position: relative;
+    top:160px;
+}

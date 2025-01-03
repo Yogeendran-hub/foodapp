@@ -1,0 +1,22 @@
+.title
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:red;
+    position: relative;
+    top:-60px;
+    margin-left:15px;
+}
+
+#ourmenu
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue; 
+    text-align: center;
+    margin-top:50px;
+}
+.copyright
+{
+    position: relative;
+    top:1400px;
+    margin-left:500px;
+}

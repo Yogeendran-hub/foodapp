@@ -1,0 +1,137 @@
+.cardorder1
+{
+    background-color: rgb(170, 126, 68);
+    position:relative;
+    top:-50px;
+    left:280px;
+    height:398px;
+    width:600px;
+}
+.order1img
+{
+    height:398px;
+    width:290px;
+}
+.order1body
+{
+    text-align: left;
+    margin-top:-380px;
+    margin-left:300px;
+    font-weight: bold;
+}
+.dishname1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    font-weight: bold;
+}
+.chickenbiriyani
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin-top:-23px;
+    margin-left:60px;
+}
+.titlequantity1
+{
+    color:white;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:50px;
+}
+
+.quantity1
+{
+    font-weight: bold;
+    color:white;
+    position: relative;
+    top:-35px;
+    left:70px;
+    margin-left:50px;
+}
+.titleprice1
+{
+    color:white;
+    font-weight : bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:15px;
+    left:2px;
+}
+.price1
+{
+    position: relative;
+    top:-18px;
+    left:150px;
+    font-weight: bold;
+    color:white;
+}
+.titletotalprice1
+{
+    color:white;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:25px;
+}
+.totalprice1
+{
+    color:white;
+    font-weight: bold;
+    position:relative;
+    top:-8px;
+    left:150px;
+}
+.order1button1
+{
+    background-color: rgb(209, 218, 84);
+    color: green;
+    position: relative;
+    top:40px;
+    left:50px;
+}
+.order1button1:hover
+{
+    background-color: rgb(209, 218, 84);
+    color: green;
+}
+.minus1
+{
+    background-color: rgb(209, 218, 84);
+    height:25px;
+    width:30px;
+    position: relative;
+    top:5px;
+    left:-10px;
+    border-color: rgb(67, 135, 190)
+}
+.minussymbol1
+{
+    color: green;
+    position: relative;
+    top:-6px;
+    left:-2px;
+}
+.plus1
+{
+    background-color: rgb(209, 218, 84);
+    height:25px;
+    width:30px;
+    position: relative;
+    top:5px;
+    left:10px;
+    border-color: rgb(67, 135, 190)
+}
+.plussymbol1
+{
+    color: green;
+    position: relative;
+    top:-6px;
+    left:-1px;
+}
+.copyright1
+{
+    position: relative;
+    top:160px;
+}
