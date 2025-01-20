@@ -23,9 +23,9 @@ The following technologies and tools were utilized to develop the application:
 
 To get a local copy of this project up and running, follow these steps:
 
-1. Clone the repository: git clone https://github.com/Yogeendran-hub/New_Portfolio_using_Reactjs/tree/main/portfolio-using-react.git
+1. Clone the repository: https://github.com/Yogeendran-hub/foodapp.git
 
-2. Navigate to the Project Directory: cd portfolio-using-react
+2. Navigate to the Project Directory: cd foodapp
 
 3. Install Dependencies: npm install
 
@@ -33,8 +33,32 @@ To get a local copy of this project up and running, follow these steps:
 
 5. Open your browser and go to http://localhost:3000 to view the application.
 
+## Specialization:
+Search Bar
+•	Includes a search bar with a search button for easy navigation.
+
+Dish Carousel
+•	Displays 5 dish images using a carousel effect.
+•	Includes navigation buttons to browse through the dishes.
+
+Dish Cards
+•	Features 3 cards, each containing:
+•	A dish image.
+•	The dish name.
+•	A description of the dish.
+•	An Order Now button.
+
+•	Order Now button redirects users to the Order page.
+
+Order Page 
+•	Displays the selected dish name.
+•	Includes quantity control with increase (+) and decrease (-) buttons.
+•	Shows the price of the dish and the total price based on quantity.
+•	Features a Proceed to Payment button that redirects to the Payment page.
+
+Payment Page
+•	Displays an image confirming Payment Successful.
 
 ## Author:
 
-The Author for this project is Yogeendran S.
 The Author for this project is Yogeendran S.
